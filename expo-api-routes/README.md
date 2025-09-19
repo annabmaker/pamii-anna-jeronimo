@@ -1,7 +1,6 @@
 
 # 🚀 API Routes 
 
-## 📅 Aula do dia 15/09/2025 – Backend com API Routes e Deploy
 
 Neste projeto realizamos uma API simples utilizando **Next.js**, implementamos uma tela de autenticação (SignIn) que utiliza essa API e, por fim, fizemos o deploy do backend na **Vercel**.
 
