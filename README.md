@@ -48,3 +48,5 @@ Rode:
 `npx expo start` 
 
 Isso abrirá o **Expo DevTools** no navegador e mostrará um **QR Code** no terminal.
+
+
