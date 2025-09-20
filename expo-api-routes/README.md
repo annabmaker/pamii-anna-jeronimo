@@ -40,14 +40,14 @@ npm install axios
 Para rodar o servidor de desenvolvimento:
 
 ```
-npm run dev
+npx expo start
 
 ```
 
 O app estará rodando em:
 
 ```
-http://localhost:3000
+http://localhost:NumPorta
 
 ```
 
@@ -165,7 +165,7 @@ Funcionamento:
     
 
 Acesse em:  
-👉 `http://localhost:3000/signin`
+👉 `http://localhost:NumPorta/signin`
 
 
 **Acessando Endpoints no App** Com o servidor rodando em npm run dev, abra em: [http://localhost:numPorta/signin]
